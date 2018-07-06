@@ -1,0 +1,24 @@
+{
+  "name": "ProjectOne",
+  "homepage": "https://github.com/suarezangel928/project",
+  "authors": [
+    "suarezangel <angel.suarez.cortes@alumno.uttehuacan.edu.mx>"
+  ],
+  "description": "a basic boostrap 4 project",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "fontawesome": "^5.0.12",
+    "jquery": "^3.3.1",
+    "hammerjs": "^2.0.8"
+  }
+}
